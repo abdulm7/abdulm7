@@ -1,7 +1,7 @@
 Hi 👋 My name is Abdul Rahman
 ====================================================================================================================================
 
-Eternal learner 🧠, Full Stack Developer💻🌐
+Full Stack Developer💻🌐, Always Learning 🧠
 --------------------------------------------
 
 University of Guelph alumni🎓 and curious Software Engineer. Crafting dynamic full-stack apps with finesse using React, Next, TypeScript, Tailwind, Node, MySQL, and DynamoDB. Venturing into the clouds using AWS, Docker, Terraform, and creating automation with GitHub Actions. Passionate about weaving innovation into every line of code.
