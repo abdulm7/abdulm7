@@ -9,7 +9,6 @@ University of Guelph alumni🎓 and curious Software Engineer. Crafting dynamic 
 * 🌍  I'm based in Guelph, ON
 * 🖥️  See my portfolio at [abdulm.me](http://abdulm.me)
 * ✉️  You can contact me at [abdul.m0701@gmail.com](mailto:abdul.m0701@gmail.com)
-* 🚀  I'm currently working on [Revamping Eramosa Dental's Website](http://www.eramosadental.com/)
 * 🧠  I'm learning [Next.js 14](https://nextjs.org/blog/next-14)
 
 ### Skills
