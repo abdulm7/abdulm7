@@ -1,6 +1,6 @@
-Hi 👋 My name is Abdul Rahman
+Hi 👋 My name is Abdul Rahman!
 ====================================================================================================================================
-Application Developer @ Kenna  <a href="https://www.kenna.ca/"><img src="https://github.com/abdulm7/abdulm7/assets/46537861/cecc9179-3d3c-4fe6-8063-dabaeaee2941" alt="drawing" align="center" width="50"/></a>
+Application Developer @  <a href="https://www.kenna.ca/"><img src="https://github.com/abdulm7/abdulm7/assets/46537861/aaa04fd4-ca0c-49ea-a346-d9f3f08398c7" alt="drawing" align="center" height="50"/></a>
 ----------------------------------------------------------
 
 University of Guelph alumni🎓 and early career Software Engineer 👨‍💻. Crafting dynamic full-stack apps with ✨finesse👌 using React, Next, TypeScript, Tailwind, Node, MySQL, and DynamoDB. Venturing into the ☁️clouds☁️ using AWS, Docker, Terraform, and creating automation with CI/CD tools such as GitHub Actions and Jenkins. Passionate about weaving innovation, robustness, and convenience into my work. 
