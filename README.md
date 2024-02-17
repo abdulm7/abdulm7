@@ -1,15 +1,14 @@
 Hi 👋 My name is Abdul Rahman
 ====================================================================================================================================
+Application Developer @ Kenna  <a href="https://www.kenna.ca/"><img src="https://github.com/abdulm7/abdulm7/assets/46537861/cecc9179-3d3c-4fe6-8063-dabaeaee2941" alt="drawing" align="center" width="50"/></a>
+----------------------------------------------------------
 
-Full Stack Developer💻🌐, Always Learning 🧠
---------------------------------------------
-
-University of Guelph alumni🎓 and curious Software Engineer. Crafting dynamic full-stack apps with finesse using React, Next, TypeScript, Tailwind, Node, MySQL, and DynamoDB. Venturing into the clouds using AWS, Docker, Terraform, and creating automation with GitHub Actions. Passionate about weaving innovation into every line of code.
+University of Guelph alumni🎓 and early career Software Engineer 👨‍💻. Crafting dynamic full-stack apps with ✨finesse👌 using React, Next, TypeScript, Tailwind, Node, MySQL, and DynamoDB. Venturing into the ☁️clouds☁️ using AWS, Docker, Terraform, and creating automation with CI/CD tools such as GitHub Actions and Jenkins. Passionate about weaving innovation, robustness, and convenience into my work. 
 
 * 🌍  I'm based in Guelph, ON
 * 🖥️  See my portfolio at [abdulm.me](http://abdulm.me)
 * ✉️  You can contact me at [abdul.m0701@gmail.com](mailto:abdul.m0701@gmail.com)
-* 🧠  I'm learning [Next.js 14](https://nextjs.org/blog/next-14)
+* 🧠  Perpetual learner, currently exploring 🔎 [Next.js 14](https://nextjs.org/blog/next-14)
 
 ### Skills
 
