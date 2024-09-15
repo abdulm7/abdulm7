@@ -1,9 +1,9 @@
 Hi 👋 My name is Abdul Rahman!
 ====================================================================================================================================
-Application Developer @  <a href="https://www.kenna.ca/"><img src="https://github.com/abdulm7/abdulm7/assets/46537861/aaa04fd4-ca0c-49ea-a346-d9f3f08398c7" alt="drawing" align="center" height="40"/></a>
+Application Dev 👨‍💻
 ----------------------------------------------------------
-
-Early career Software Engineer 👨‍💻. Crafting dynamic full-stack apps with ✨finesse👌 using React, Next, TypeScript, Tailwind, Node, MySQL, and DynamoDB. Venturing into the ☁️clouds☁️ using AWS, Docker, Terraform, and creating automation with CI/CD tools such as GitHub Actions and Jenkins. Passionate about weaving innovation, robustness, and convenience into my work. 
+<!-- @  <a href="https://www.kenna.ca/"><img src="https://github.com/abdulm7/abdulm7/assets/46537861/aaa04fd4-ca0c-49ea-a346-d9f3f08398c7" alt="drawing" align="center" height="40"/></a> -->
+Early career Software Engineer. Crafting dynamic full-stack apps with ✨finesse👌 using React, Next, TypeScript, Tailwind, Node, MySQL, and DynamoDB. Venturing into the ☁️clouds☁️ using AWS, Docker, Terraform, and creating automation with CI/CD tools such as GitHub Actions and Jenkins. Passionate about weaving innovation, robustness, and convenience into my work. 
 
 * 🖥️  See my portfolio at [abdulm.me](http://abdulm.me)
 * ✉️  You can contact me at [abdul.m0701@gmail.com](mailto:abdul.m0701@gmail.com)
